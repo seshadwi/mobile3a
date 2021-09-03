@@ -1,0 +1,12 @@
+Fakta Tentang Android
+1. Kepopuleran smartphone berbasis android di seluruh dunia adalah 1.4 miliar unit ditahun 2020
+2. Android adalah sistem operasi yang paling populer(39.64% untuk semua perangkat, dan 72.85% untuk telepon genggam)
+3. Aplikasi android adalah aplikasi yang paling diminati (3 juta aplikasi ditahun 2021)
+4. Pembuat program android adalah salah satu pekerjaan yang paling diminati di industri IT
+5. Banyak sekolah, universitas dan perguruan tinggi memasukkan pemrograman android ke dalam kurikulum mereka
+
+Components di dalam aplikasi android
+1. Activity : Representasi dari layar aplikasi
+2. Services : Proses yang dilakukan dibalik layar yang digunakan untuk operasi yang dilakukan dalam jangka panjang
+3. Broadcast Reciever : Bagian yang dapat mengirimkan atau menerima suatu proses dari/untuk aplikasi lainnya
+4. Content Provider : Komponen untuk memanajemen data dari segala sumber
