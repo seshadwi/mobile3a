@@ -1,0 +1,33 @@
+Tugas 1
+Rangkuman Pertemuan Pertama
+
+Oleh:
+Daffa Cahyo Alghifari / 1941720104
+Mata Kuliah: Pemrograman Mobile
+
+Mobile adalah device paling populer di dunia, maka dari itu aplikasi mobile menjadi yang paling banyak diminta di dunia, 
+berdampak lebih terbukanya lowongan pekerjaan untuk pengembang mobile.
+
+Untuk menciptakan aplikasi mobile terkini, seorang programmer bisa menggunakan bahasa Kotlin, Java, Flutter & Dart. Bahasa
+yang sekarang paling bagus untuk mobile adalah Kotlin, Java pun bagus namun tidak sekuat Kotlin tetapi lebih universal, 
+sedangkan Flutter & Dart keunggulannya dapat memprogram aplikasi untuk Android dan IoS sekaligus, jadi tidak perlu belajar
+C++ yang mana khusus untuk aplikasi di IoS (Apple).
+
+Untuk membuat aplikasi mobile, bisa menggunakan software Visual Studio Code, Android Studio, dan lain-lain. Tidak hanya
+software atau SDK, tetapi memerlukan sebuah emulator smartphone yang bisa mengetes langsung aplikasinya begitu kita
+memprogram. Emulatornya nanti memberikan kita API berapa yang digunakan, serta fitur lain yang memberitahu kita sebesar 
+apa persentase smartphone di dunia ini yang mampu menjalankan program kita, tanpa emulator pengerjaan akan sangat sulit.
+
+Berikut proses-proses pembuatan aplikasi mobile:
+1. UI Design
+2. Application Development
+3. Building
+4. Testing
+5. Deployment
+
+Konklusinya adalah karena sekarang makin banyak yang menggunakan mobile, bahasa untuk pembuatannya semakin naik daun,
+alhasil mengalami perkembangan pesat, berdampak pula ke semakin banyak permintaan dan para programmer yang belajar ataupun
+banting stir ke mobile. Untuk membuat aplikasi mobile yang baik menggunakan SDK yang mutakhir pula ditambah emulator 
+untuk mempercepat dan mempermudah perkembangan.
+
+Demikian rangkuman yang bisa sampaikan, terima kasih!!! :)

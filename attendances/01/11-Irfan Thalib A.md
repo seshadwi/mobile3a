@@ -1,0 +1,2 @@
+Rangkuman Absensi Pertemuan 01
+Pemrograman Mobile sangat penting dipelajari, khususnya android karena di indonesia pengguna android sangat banyak yang akan menyebabkan permintaan akan aplikasi android pun akan semakin bertambah. Untuk membuat android dapat menggunakan IDE seperti Andoroid Studio dengan bahasa Jabva dan Kotlin. Atau bisa juga menggunakan Flutter.
